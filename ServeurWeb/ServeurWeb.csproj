@@ -9,4 +9,8 @@
     <ProjectReference Include="..\NetworkUtils\NetworkUtils.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="public\css\" />
+  </ItemGroup>
+
 </Project>
